@@ -1,0 +1,9 @@
+﻿  2DGCP.cpp
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(174): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\phd_file\related_resources_public_paper\gcp\2dgcp\2dgcp\geometry.h(240): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  2DGCP.vcxproj -> E:\PHD_FILE\Related_Resources_Public_Paper\GCP\2DGCP\x64\Debug\2DGCP.exe
